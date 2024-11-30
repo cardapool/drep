@@ -121,10 +121,10 @@
       {
         "@type": "Identity",
         "label": {
-          "@value": "Drep de CAPO "
+          "@value": "DRep CAPO "
         },
         "uri": {
-          "@value": "https://github.com/cardapool/drep/blob/main/CAPO.jsonld"
+          "@value": "https://raw.githubusercontent.com/cardapool/drep/refs/heads/main/CAPO.jsonld"
         }
       }
     ]
